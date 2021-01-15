@@ -1,0 +1,103 @@
+body h1 ,h3,h5{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+
+.menu img{
+    width: 200px;
+}
+.header-bg{
+    background-color: #FFFBF0;
+
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+
+}
+.top-img img{
+    width: 400px;
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+h1, .nav-font{
+    font-weight: 700;
+}
+
+h3, h5{
+    font-weight: 600;
+}
+
+.navbar{
+padding-right: 20px;
+
+}
+.navigation{
+    background-color: #FFF9F4;
+}
+
+.top-section{
+    background-color:#FFF9F4 ;
+}
+
+.link-button{
+    background-color:#3848d1 ;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    height: 45px;
+    width: 140px;
+}
+.link-button img{
+    width: 15%;
+}
+span{
+    color: tomato;
+}
+.nike-card{
+    border-radius: 10px;
+}
+.nike-card{
+    border: 0;
+    border-radius: 10px;
+}
+
+.nike-card-footer{
+    border: 0;
+    background-color: white;
+    padding-bottom: 15px;
+}
+
+.icon-gutter{
+    width: 50%;
+}
+.gutter-box {
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.nike-card{
+    border: 0;
+    border-radius: 10px;
+}
+
+.subscribe{
+    height: 300px;
+    background-color:#fff4f8 ;
+    
+}
+.submit-button{
+    height: 34px;
+}
+.star-icon{
+    width: 5%;
+}
